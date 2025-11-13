@@ -6,6 +6,9 @@
 <p align="justify">Os princípios que sempre nortearam a postura empresarial da ENGEFOTO estão calcados no binômio Tecnologia e Qualidade. Com forte e continuado investimento em treinamento de sua equipe técnica e aparelhamento da empresa, em termos de equipamentos, software e hardware, a realização de mais de 1.000 contratos desenvolvidos, desde a sua fundação, tem encontrado, como regra, ótima recepção por parte dos clientes e contratantes.</p>
 <p align="justify">Na busca da excelência, a empresa desenvolveu um criterioso programa de qualidade, tendo sido certificada em todos os seus processos quanto à Norma ISO:9001. No caminho seguro de seu amadurecimento empresarial, a ENGEFOTO desenvolveu também forte aptidão em programas de SMS – Saúde, Meio-Ambiente e Segurança.</p>
 
+<a href="https://www.instagram.com/engefoto_engenharia/" target="_blank"><img src="https://raw.githubusercontent.com/engefoto-desenvolvimento/.github/refs/heads/dev/icon/instagram.png" height="30"></a>
+<a href="https://www.linkedin.com/company/engefoto-engenharia-e-aerolevantamentos-sa/" target="_blank"><img src="https://raw.githubusercontent.com/engefoto-desenvolvimento/.github/refs/heads/dev/icon/linkedin.png" height="30"></a>
+
 ---
 
 ### Antigos Colaboradores (P&D - Pesquisa e Desenvolvimento)
