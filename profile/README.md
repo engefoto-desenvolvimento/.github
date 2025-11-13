@@ -8,5 +8,5 @@
 
 ---
 
-### Antigos Colaboradores
+### Antigos Colaboradores (P&D - Pesquisa e Desenvolvimento)
 [@klaiiver](https://github.com/klaiiver)
