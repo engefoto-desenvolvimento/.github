@@ -12,4 +12,4 @@
 ---
 
 ### Antigos Colaboradores (P&D - Pesquisa e Desenvolvimento)
-[@klaiiver](https://github.com/klaiiver)
+[@klaiiver](https://github.com/klaiiver) [@guilhermepaitax]( https://github.com/guilhermepaitax)
