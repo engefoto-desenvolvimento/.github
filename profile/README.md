@@ -12,4 +12,4 @@
 ---
 
 ### Antigos Colaboradores (P&D - Pesquisa e Desenvolvimento)
-[@klaiiver](https://github.com/klaiiver) [@guilhermepaitax](https://github.com/guilhermepaitax) [@gamafolk](https://github.com/gamafolk) [@cvPolli](https://github.com/cvPolli) [@cassianorsd](https://github.com/cassianorsd)  
+[@klaiiver](https://github.com/klaiiver) [@guilhermepaitax](https://github.com/guilhermepaitax) [@gamafolk](https://github.com/gamafolk) [@cvPolli](https://github.com/cvPolli) [@cassianorsd](https://github.com/cassianorsd) [@rainagaoka](https://github.com/rainagaoka)   
